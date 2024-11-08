@@ -8,7 +8,7 @@ The repository is organized into two main sections:
 
 I'm motivated to keep expanding this collection as I progress, and I hope you'll find these projects as engaging as they were for me to create 🚀. Feel free to explore below for more details on each project!
 
-## 📂 Mini Projects
+## 📂 Mini Projects:
 📜 The Mini Projects section features a collection of small, hands-on Python projects I've created to deepen my understanding of various programming concepts and frameworks. Тhese projects reflect my journey through coding and experimentation. Check out below for some interesting examples!
 
 ### 📌 Table of Contents:
