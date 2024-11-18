@@ -34,7 +34,7 @@
 ### 📌 **4. Heart**
 <img src="https://github.com/user-attachments/assets/a866ab4e-c091-4077-9449-1e6b6d73eb5e" width="160" alt="Heart" />
 
-### ✨ There are more fascinating patterns to discover! Click **[here](https://github.com/MartinVrb/Python-Projects/tree/main/01_mini_projects/01_pattern_files)** to see the full collection of pattern designs.
+### ✨ There are more fascinating patterns to discover! Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pattern_files)** to see the full collection of pattern designs.
 
 ---
 
