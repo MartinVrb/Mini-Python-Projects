@@ -51,7 +51,7 @@
 ### 🔑 Some key highlights of this project include:
 - Compete against the computer in real-time by selecting **Rock, Paper, or Scissors**.
 - The computer's choices are generated using Python's **random module** for unpredictable gameplay.
-- With its **dynamic win/lose logic**, the game displays the winner along with the updated score after each round.
+- With its **dynamic win/lose logic**, each round updates the score, displaying the winner and allowing you to track your progress throughout the game
 - **Continue playing** multiple rounds with ease until you're ready to quit.
 
 ---
@@ -66,5 +66,4 @@
 
 ### 🌐 Play the Game Live!
 
-🔥 Ready to put your skills to the test? Try out the [**Rock-Paper-Scissors Game Live**](https://replit.com/@martinvarbanov7/RockPaperScissors?outputonly=1&lite=true) and see what it takes to win! 🚀
-
+🔥 Ready to put your skills to the test? Try out the [**Rock-Paper-Scissors Game Live**](https://replit.com/@martinvarbanov7/RockPaperScissors) and claim your victory! 🚀
