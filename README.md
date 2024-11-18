@@ -66,5 +66,5 @@
 
 ### 🌐 Play the Game Live!
 
-🔥 Ready to put your skills to the test? Try out the [**Rock-Paper-Scissors Game Live**](https://replit.com/@martinvarbanov7/RockPaperScissors) and see what it takes to win! 🚀
+🔥 Ready to put your skills to the test? Try out the [**Rock-Paper-Scissors Game Live**](https://replit.com/@martinvarbanov7/RockPaperScissors?outputonly=1&lite=true) and see what it takes to win! 🚀
 
