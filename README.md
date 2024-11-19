@@ -40,11 +40,11 @@
 
 ## 🎮 **2. Rock-Paper-Scissors Game**
 
-🌍 Welcome to the **Rock-Paper-Scissors Game** project! This classic game brings a fun and interactive way to engage with Python programming. In this project, you can play against the computer in a game of strategy and luck, showcasing fundamental concepts of coding such as conditionals, loops, and user input handling. This project highlights the potential of Python in creating simple yet entertaining programs, while demonstrating how logic and randomness can combine for endless fun. 🎉
+🌍 Welcome to the **Rock-Paper-Scissors Game** game! Discover the perfect blend of simplicity and fun with this timeless classic. Designed to be lightweight and intuitive, it's perfect for beginners taking their first steps in coding or enthusiasts looking for a quick engaging challenge. It highlights the potential of Python in creating simple yet entertaining programs, combining logic and randomness for endless entertainment! 🎉
 
 ---
 
-🎯 The goal is simple: Choose one of the three moves — *Rock*, *Paper*, or *Scissors* — and try to outsmart the computer. The game is lightweight, intuitive, and designed for both beginners and enthusiasts to enjoy.
+🎯 The goal is simple: Choose your move — Rock, Paper, or Scissors — and try to outsmart the computer! Every choice is a step closer to victory in this iconic battle of wits and luck.
 
 ---
 
@@ -67,3 +67,22 @@
 ### 🌐 Play the Game Live!
 
 🔥 Ready to put your skills to the test? Try out the [**Rock-Paper-Scissors Game Live**](https://replit.com/@martinvarbanov7/RockPaperScissors) and claim your victory! 🚀
+
+---
+
+## 🎲 **3. Guess a Number Game**
+
+🧠 Welcome to the **Guess a Number Game** game! Get ready to put your intuition and logic to the test in this exciting classic game. Perfect for beginners or anyone who loves quick, brain-teasing challenges, this project guarantees a fun and dynamic experience with every playthrough. 🤹
+
+---
+
+🎯 The goal is very simple: Try to guess the number randomly selected by the computer. After each guess, the program gives you feedback — whether your guess is too high, too low, or spot-on!
+
+---
+
+### 🔑 Some key highlights of this project include:
+- The game uses Python's **random module** to generate unpredictable numbers, keeping the gameplay fresh every time.
+- After each guess, the program gives **hints**, making it easier to strategize and narrow down your choices.
+- Restart the game as **many times as you like**, with each playthrough offering a unique experience.
+
+---
