@@ -49,7 +49,6 @@
 ---
 
 ### 🔑 Some key highlights of this project include:
-- Compete against the computer in real-time by selecting **Rock, Paper, or Scissors**.
 - The computer's choices are generated using Python's **random module** for unpredictable gameplay.
 - With its **dynamic win/lose logic**, each round updates the score, displaying the winner and allowing you to track your progress throughout the game.
 - **Continue playing** multiple rounds with ease until you're ready to quit.
@@ -76,11 +75,11 @@
 
 ---
 
-🎯 The goal is very simple: Try to guess the number randomly selected by the computer. After each guess, the program gives you feedback — whether your guess is too high, too low, or spot-on!
+🏆 The goal is very simple: Try to guess the number randomly selected by the computer. After each guess, the program gives you feedback — whether your guess is too high, too low, or spot-on!
 
 ---
 
-### 🔑 Some key highlights of this project include:
+### 🔐 Some key highlights of this project include:
 - The game uses Python's **random module** to generate unpredictable numbers, keeping the gameplay fresh every time.
 - After each guess, the program gives **hints**, making it easier to strategize and narrow down your choices.
 - Restart the game as **many times as you like**, with each playthrough offering a unique experience.
