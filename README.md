@@ -7,6 +7,8 @@
 ## 🌟 **1. Pattern files**:
 📐 The Pattern Files section showcases a series of Python scripts designed to generate various geometric shapes and patterns using characters. I was inspired by the desire to create something both creative and practical to enhance my understanding of fundamental programming concepts such as loops and nested structures. These patterns offer a visually engaging way to demonstrate the power of code and the logic behind it. 👨‍💻
 
+---
+
 ### 🔑 Some key highlights of this project include:
 - **Generating shapes** like triangles, squares, and pyramids.
 - **Applying loops and conditions** to achieve symmetry and intricate designs.
@@ -34,7 +36,10 @@
 ### 📌 **4. Heart**
 <img src="https://github.com/user-attachments/assets/a866ab4e-c091-4077-9449-1e6b6d73eb5e" width="160" alt="Heart" />
 
-### ✨ There are more fascinating patterns to discover! Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pattern_files)** to see the full collection of pattern designs.
+---
+
+### ✨ Feeling inspired to explore more exciting examples?
+Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pattern_files)** to see the full collection of pattern designs!
 
 ---
 
@@ -57,31 +62,46 @@
 
 ### 🎬 See the Game in Action!
 
-🕹️ **Here's a sneak peek of the Rock-Paper-Scissors game interface, where every choice matters!**
+👀 **Here's a sneak peek of the Rock-Paper-Scissors game interface, where every choice matters!**
 
 <img src="https://github.com/user-attachments/assets/6cddbb17-dd2d-4a28-84da-1f4d48b6be0e" alt="Rock-Paper-Scissors Game Screenshot" />
 
 ---
 
-### 🌐 Play the Game Live!
+### 🕹️ Play the Game Live!
 
-🔥 Ready to put your skills to the test? Try out the [**Rock-Paper-Scissors Game Live**](https://replit.com/@martinvarbanov7/RockPaperScissors) and claim your victory! 🚀
+🤔 Ready to put your skills to the test? Try out the **[Rock-Paper-Scissors Game Live](https://replit.com/@martinvarbanov7/RockPaperScissors)** and claim your victory! 🥇
 
 ---
 
 ## 🎲 **3. Guess a Number Game**
 
-🧠 Welcome to the **Guess a Number Game** game! Get ready to put your intuition and logic to the test in this exciting classic game. Perfect for beginners or anyone who loves quick, brain-teasing challenges, this project guarantees a fun and dynamic experience with every playthrough. 🤹
+🧠 Welcome to the **Guess a Number Game** game! Embark on an exciting adventure of wits and luck with this interactive number-guessing challenge! Perfect for beginners learning Python or seasoned coders looking for a fun project, this game combines logic, randomness, and user interaction to create an engaging experience. Whether you're testing your intuition or honing your strategy, this game is sure to entertain! 🤹
 
 ---
 
-🏆 The goal is very simple: Try to guess the number randomly selected by the computer. After each guess, the program gives you feedback — whether your guess is too high, too low, or spot-on!
+🏆 The goal is very simple: Try to guess the number randomly selected by the computer. You have 10 attempts to guess the number. After each guess, the program gives you feedback — whether your guess is too high, too low, or spot-on!
 
 ---
 
 ### 🔐 Some key highlights of this project include:
-- The game uses Python's **random module** to generate unpredictable numbers, keeping the gameplay fresh every time.
+- The computer’s secret number is generated using Python’s **random module**, ensuring unpredictable and fresh challenges every time you play.
 - After each guess, the program gives **hints**, making it easier to strategize and narrow down your choices.
-- Restart the game as **many times as you like**, with each playthrough offering a unique experience.
+- A **limit of 10 tries** keeps the game challenging, adding an element of suspense to every guess.
+- After each round, you can choose to play again as **many times as you like** or exit the game, ensuring flexibility and replayability.
+
+---
+
+### 🚀 Ready, Set, Guess!
+
+💥 Take a glimpse at the Guess-a-Number game interface and see how the magic unfolds as you guess against the computer!
+
+<img src="https://github.com/user-attachments/assets/909a2e22-9f9f-4b91-b46f-e228815b7b51" alt="Guess a number Game Screenshot" />
+
+---
+
+### 👾 Experience the Thrill of Guessing Live!
+
+🕵️‍♂ Think you’ve got what it takes? Dive into the **[Guess-a-Number Game Live](https://replit.com/@martinvarbanov7/GuessANumber)** and prove you’re the ultimate guess master! Can you find the secret number? 💡
 
 ---
