@@ -45,7 +45,7 @@ Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pa
 
 ## 🎮 **2. Rock-Paper-Scissors Game**
 
-🌍 Welcome to the **Rock-Paper-Scissors Game** game! Discover the perfect blend of simplicity and fun with this timeless classic. Designed to be lightweight and intuitive, it's perfect for beginners taking their first steps in coding or enthusiasts looking for a quick engaging challenge. It highlights the potential of Python in creating simple yet entertaining programs, combining logic and randomness for endless entertainment! 🎉
+🌍 Welcome to the **Rock-Paper-Scissors Game**! Discover the perfect blend of simplicity and fun with this timeless classic. Designed to be lightweight and intuitive, it's perfect for beginners taking their first steps in coding or enthusiasts looking for a quick engaging challenge. It highlights the potential of Python in creating simple yet entertaining programs, combining logic and randomness for endless entertainment! 🎉
 
 ---
 
@@ -76,7 +76,7 @@ Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pa
 
 ## 🎲 **3. Guess a Number Game**
 
-🧠 Welcome to the **Guess a Number Game** game! Embark on an exciting adventure of wits and luck with this interactive number-guessing challenge! Perfect for beginners learning Python or seasoned coders looking for a fun project, this game combines logic, randomness, and user interaction to create an engaging experience. Whether you're testing your intuition or honing your strategy, this game is sure to entertain! 🤹
+🧠 Welcome to the **Guess a Number Game**! Embark on an exciting adventure of wits and luck with this interactive number-guessing challenge! Perfect for beginners learning Python or seasoned coders looking for a fun project, this game combines logic, randomness, and user interaction to create an engaging experience. Whether you're testing your intuition or honing your strategy, this game is sure to entertain! 🤹
 
 ---
 
