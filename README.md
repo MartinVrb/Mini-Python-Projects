@@ -53,9 +53,9 @@ Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pa
 
 ---
 
-### 🔑 Some key highlights of this project include:
+### 🔑 Some key highlights:
 - The computer's choices are generated using Python's **random module** for unpredictable gameplay.
-- With its **dynamic win/lose logic**, each round updates the score, displaying the winner and allowing you to track your progress throughout the game.
+- With its **dynamic win/lose logic**, each round updates the score, displaying the winner and allowing you to track the outcome of each round.
 - **Continue playing** multiple rounds with ease until you're ready to quit.
 
 ---
@@ -84,7 +84,7 @@ Click **[here](https://github.com/MartinVrb/Mini-Python-Projects/tree/main/01_pa
 
 ---
 
-### 🔐 Some key highlights of this project include:
+### 🔐 Some key highlights:
 - The computer’s secret number is generated using Python’s **random module**, ensuring unpredictable and fresh challenges every time you play.
 - After each guess, the program gives **hints**, making it easier to strategize and narrow down your choices.
 - A **limit of 10 tries** keeps the game challenging, adding an element of suspense to every guess.
